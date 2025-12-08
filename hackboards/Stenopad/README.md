@@ -16,7 +16,7 @@ PCB:
 
 Used Onshape
 
-![cad](https://github.com/B-Eddie/hackpad/blob/main/hackboards/Stenopad/assets/cad.png)
+![cad](https://github.com/user-attachments/assets/1ac87e1e-4704-439e-95a2-fd9548060a1b)
 
 # Firmware
 
